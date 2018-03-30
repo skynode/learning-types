@@ -1,0 +1,30 @@
+{
+  "name": "learning-types",
+  "version": "0.1.0",
+  "description": "Practising typeScript's type definition file writing",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skynode/learning-types.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "DefinitelyTyped",
+    "Type Definition File",
+    "JavaScript",
+    "Node",
+    "Statically Typed"
+  ],
+  "author": "Dexter Valkyrie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skynode/learning-types/issues"
+  },
+  "homepage": "https://github.com/skynode/learning-types#readme",
+  "dependencies": {
+    "@types/node": "^9.6.1"
+  }
+}
